@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Practice;
 
 public class Method {
     static int sum(int a , int b){

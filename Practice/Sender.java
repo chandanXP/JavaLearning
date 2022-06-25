@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Practice;
 
 import java.net.*;
 public class Sender

@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Practice;
 
 public class Example2a {
     public static void main(String[] args) {

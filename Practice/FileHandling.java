@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Practice;
 
 // Creating a text File using FileWriter
 import javax.swing.plaf.synth.SynthTextAreaUI;

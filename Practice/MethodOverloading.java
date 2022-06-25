@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Practice;
 
 public class MethodOverloading {
     static void tell_joke(){

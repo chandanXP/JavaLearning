@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Practice;
 
 class JavaPractical{
     public static void main(String args[]){

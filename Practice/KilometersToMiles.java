@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Practice;
 import java.util.Scanner;
 public class KilometersToMiles {
     public static void main(String[] args) {

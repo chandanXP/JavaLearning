@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Practice;
 //importing scanner class
 import java.util.Scanner;
 
